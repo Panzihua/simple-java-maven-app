@@ -11,6 +11,7 @@ public class App
     public App() {}
 
     public static void main(String[] args) {
+        System.out.println("test webhook");
         System.out.println("Hello Blue Ocean");
         System.out.println(new App().getMessage());
     }
