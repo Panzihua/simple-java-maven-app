@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../2018-07-10-01-47-42-1531187262" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../Parking-Lot-Template-2019-7-18-8-5-49-775" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../ParkingLot" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../gradle-empty-stack-2019-7-5-15-58-18-862" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../java-stream-collection-2019-7-11-9-21-55-101" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../junit5-tdd-stack-2019-6-13-9-32-51-48" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../order-receipt-2019-6-14-6-44-33-528" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../package-booking-backend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../refactoring_techniques_practice-2019-6-14-6-41-33-583" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../unit-test-basic-2019-6-14-3-19-48-282" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../unit-test-mock-basic-2019-6-14-3-33-53-188" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="260" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+</project>
